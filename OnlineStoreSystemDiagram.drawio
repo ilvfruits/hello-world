@@ -1,11 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T02:34:08.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6Yoth-t7ROky9hrG_cTw" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:59:01.677Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="enN6tC-U4Qr0Cx1Xherh" version="21.3.7" type="github">
   <diagram name="Page-1" id="0Q1NWGW6EsoFx8M8zkU0">
-    <mxGraphModel dx="938" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kzzkFkXCfPjy0Lwga-6N-36" value="Uses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kzzkFkXCfPjy0Lwga-6N-8" target="kzzkFkXCfPjy0Lwga-6N-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kzzkFkXCfPjy0Lwga-6N-36" value="Uses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" target="kzzkFkXCfPjy0Lwga-6N-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Customer" c4Type="Person" c4Description="Online shopping customer" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="kzzkFkXCfPjy0Lwga-6N-8">
           <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
@@ -15,8 +17,8 @@
         <mxCell id="kzzkFkXCfPjy0Lwga-6N-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="kzzkFkXCfPjy0Lwga-6N-16" target="kzzkFkXCfPjy0Lwga-6N-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="375" />
-              <mxPoint x="120" y="375" />
+              <mxPoint x="120" y="400" />
+              <mxPoint x="120" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -27,7 +29,7 @@
         </mxCell>
         <object placeholders="1" c4Name="E-mail system" c4Type="Software System" c4Description="Exchange email systems" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="kzzkFkXCfPjy0Lwga-6N-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="120" y="420" width="240" height="120" as="geometry" />
+            <mxGeometry x="100" y="420" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Mainframe Online Store System" c4Type="Software System" c4Description="Stores all of the online shopping information about customers, accounts, transactions, etc." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="kzzkFkXCfPjy0Lwga-6N-18">
@@ -37,37 +39,40 @@
         </object>
         <mxCell id="kzzkFkXCfPjy0Lwga-6N-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="kzzkFkXCfPjy0Lwga-6N-34" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="420" as="targetPoint" />
+            <mxPoint x="310" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="360" />
-              <mxPoint x="290" y="360" />
-              <mxPoint x="290" y="421" />
+              <mxPoint x="310" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kzzkFkXCfPjy0Lwga-6N-41" value="Sends e-mail &lt;br&gt;using" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kzzkFkXCfPjy0Lwga-6N-40" vertex="1" connectable="0">
           <mxGeometry x="-0.122" y="-1" relative="1" as="geometry">
-            <mxPoint x="-13" y="-9" as="offset" />
+            <mxPoint x="1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kzzkFkXCfPjy0Lwga-6N-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="kzzkFkXCfPjy0Lwga-6N-34" target="kzzkFkXCfPjy0Lwga-6N-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="200" />
+              <mxPoint x="540" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kzzkFkXCfPjy0Lwga-6N-47" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kzzkFkXCfPjy0Lwga-6N-46" vertex="1" connectable="0">
           <mxGeometry x="-0.2571" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kzzkFkXCfPjy0Lwga-6N-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="kzzkFkXCfPjy0Lwga-6N-34" target="kzzkFkXCfPjy0Lwga-6N-45" edge="1">
+        <mxCell id="ZmlDkqf6fa2EOJkjPfJQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kzzkFkXCfPjy0Lwga-6N-34" target="ZmlDkqf6fa2EOJkjPfJQ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="400" />
+              <mxPoint x="400" y="350" />
+              <mxPoint x="400" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kzzkFkXCfPjy0Lwga-6N-50" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kzzkFkXCfPjy0Lwga-6N-49" vertex="1" connectable="0">
-          <mxGeometry x="-0.26" y="2" relative="1" as="geometry">
+        <mxCell id="ZmlDkqf6fa2EOJkjPfJQ-12" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZmlDkqf6fa2EOJkjPfJQ-11">
+          <mxGeometry x="0.0571" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -78,17 +83,43 @@
         </object>
         <object placeholders="1" c4Name="Payment Processing System" c4Type="Software System" c4Description="Process payment transactions through credit card, online payment account, bank account, etc." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="kzzkFkXCfPjy0Lwga-6N-44">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="590" y="180" width="240" height="120" as="geometry" />
+            <mxGeometry x="600" y="140" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Shipping System" c4Type="Software System" c4Description="Track order processing, shipment and delivery." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="kzzkFkXCfPjy0Lwga-6N-45">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="560" y="340" width="240" height="120" as="geometry" />
+            <mxGeometry x="630" y="280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="kzzkFkXCfPjy0Lwga-6N-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Online Shopping Store System Diagram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="70" width="400" height="40" as="geometry" />
+          <mxGeometry x="250" y="70" width="400" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZmlDkqf6fa2EOJkjPfJQ-9" value="Uses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ZmlDkqf6fa2EOJkjPfJQ-1" target="ZmlDkqf6fa2EOJkjPfJQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="440" />
+              <mxPoint x="610" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZmlDkqf6fa2EOJkjPfJQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZmlDkqf6fa2EOJkjPfJQ-1" target="kzzkFkXCfPjy0Lwga-6N-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmlDkqf6fa2EOJkjPfJQ-14" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZmlDkqf6fa2EOJkjPfJQ-13">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Inventory System" c4Type="Software System" c4Description="Manage selling goods inventory and storage." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="ZmlDkqf6fa2EOJkjPfJQ-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="350" y="360" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Procurement System" c4Type="Software System" c4Description="Procuring goods" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="ZmlDkqf6fa2EOJkjPfJQ-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="630" y="420" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
