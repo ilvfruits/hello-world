@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T13:38:38.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4RKOKxLb0xRKK_gnWtJr" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T13:42:23.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HYG-i6qzOnXGWerTWaQO" version="21.6.2" type="github">
   <diagram name="Page-1" id="y37hcGOAysiVECTbvipY">
     <mxGraphModel dx="1114" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -257,7 +257,7 @@
         <mxCell id="wSZy5F7mG4aMIDZkvXDz-32" value="Platform" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="754" y="647" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZBTB8CKhmBE57qCtS8AL-1" value="Dataset" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="ZBTB8CKhmBE57qCtS8AL-1" value="Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="184" y="950" width="90" height="330" as="geometry" />
         </mxCell>
         <mxCell id="ZBTB8CKhmBE57qCtS8AL-2" value="Applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -299,7 +299,7 @@
           <mxGeometry x="754" y="586" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZBTB8CKhmBE57qCtS8AL-5" value="Culinology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="754" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZBTB8CKhmBE57qCtS8AL-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -394,6 +394,15 @@
         </mxCell>
         <mxCell id="ZBTB8CKhmBE57qCtS8AL-33" value="AI?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="644" y="950" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBTB8CKhmBE57qCtS8AL-34" value="IPA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1290" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBTB8CKhmBE57qCtS8AL-35" value="SAP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1290" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBTB8CKhmBE57qCtS8AL-36" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1290" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
